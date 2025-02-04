@@ -9,6 +9,9 @@ URL_API = "https://restcountries.com/v3.1/all"
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)  #Ignorar avisos SSL
 ```
 
+<strong> Link: </strong> https://restcountries.com
+
+
 # Componentes do PyQt5 necessários para o Projeto:
 
 Abaixo estão descritos os principais componentes utilizados no PyQt5 mencionados no código:
