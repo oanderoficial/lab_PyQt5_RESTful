@@ -2,6 +2,12 @@
 # LAB - PyQt5 Restful
 <p> Desenvolvendo um app que vai consumir os dados da API REST Countries e organizar esses dados. </p>
 
+# API 
+
+```python
+URL_API = "https://restcountries.com/v3.1/all"
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)  #Ignorar avisos SSL
+```
 
 # Componentes do PyQt5 necessários para o Projeto:
 
