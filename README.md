@@ -10,6 +10,8 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)  #Ignorar av
 ```
 
 <strong> Link: </strong> https://restcountries.com
+</br>
+<strong> Repositório: </strong> https://github.com/apilayer/restcountries
 
 
 # Componentes do PyQt5 necessários para o Projeto:
